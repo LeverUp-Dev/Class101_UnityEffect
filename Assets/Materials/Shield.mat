@@ -33,11 +33,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_1c835b030c944f27845dc3285e8bbd02: 0
-    - _Cell_Density: 20.25
-    - _Cell_Power: 7
-    - _Cell_Speed: 2
+    - _Cell_Density: 19.85
+    - _Cell_Power: 12.15
+    - _Cell_Speed: 3
     - _Fresnel_Power: 4.7
     - _Offset: 0.8
     m_Colors:
-    - _Color: {r: 0, g: 2.9960785, b: 0.5239257, a: 0}
+    - _Color: {r: 0, g: 4.237095, b: 0.75424725, a: 0}
   m_BuildTextureStacks: []
